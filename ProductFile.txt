@@ -1,0 +1,21 @@
+2591, Camera, Camera, $799.9, 50, B, 7890
+3374, Laptop, MacBook Pro, $1799.9, 30, A, 9876
+3034, Telephone, Cordless Phone, $299.99, 40, A, 3456
+3034, Telephone, Home telephone, $99.9, 25, A, 8765
+1234, TV, Plate TV, $799.9, 20, C, 9144
+1234, TV, Plate TV, $1499.99, 5, A, 7671
+2591, Camera, Instant Camera, $179.5, 30, C, 8642
+1516, Mouse, Wireless Mouse, $99.5, 30, A, 3579
+3034, Telephone, Home Telephone, $169.99, 15, A, 8692
+2591, Camera, Digital Camera, $499.9, 10, B, 9512
+3034, Telephone, Home Telephone, $59.5, 20, A, 8655
+2591, Camera, Digital Camera, $449.4, 50, A, 3592
+1234, TV, Plate TV, $699.7, 5, B, 7084
+1516, Mouse, Wireless Mouse, $69.9, 25, C, 2345
+3374, Laptop, Laptop, $1399.2, 10, B, 1357
+3374, Laptop, Refurbished Laptop, $1099.1, 20, A, 6954
+1516, Mouse, Wireless Mouse, $49.4, 50, B, 9794
+1516, Mouse, Wireless Mouse, $69.5, 20, A, 7807
+1234, TV, Plate TV, $599.3, 5, B, 8672
+3374, Laptop, Laptop, $1369.9, 15, A, 4567
+
