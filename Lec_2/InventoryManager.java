@@ -19,10 +19,10 @@ public class InventoryManager {
         System.out.println("Starting InventoryManager...");
 
         // Update to your path:
-        String productFile = "/home/hamza/new317/CP317_PROJECT/Lec_2/ProductFile.txt";
-        String supplierFile = "/home/hamza/new317/CP317_PROJECT/Lec_2/SupplierFile.txt";
+        String productFile = "ProductFile.txt";
+        String supplierFile = "SupplierFile.txt";
         // Output file location:
-        String outputFile = "/home/hamza/new317/CP317_PROJECT/Lec_2/InventoryFile.txt";
+        String outputFile = "InventoryFile.txt";
 
         connectFiles(productFile, supplierFile, outputFile);
     }
